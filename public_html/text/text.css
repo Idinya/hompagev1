@@ -1,0 +1,15 @@
+body {
+    background-image:url(../bilder/strand-hintergrundbilder-1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    color: indigo;
+}
+a:link {
+    color: limegreen;
+}
+a:visited {
+    color: white;
+}
+a:hover {
+    color: yellow;
+}
